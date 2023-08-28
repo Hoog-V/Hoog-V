@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoog-V
 - 👀 I’m interested in FPGA's, mcu's and simple desktop applications
-- 🌱 I’m currently learning how to program FPGA's
+- 🌱 I’m currently learning how to do digital signal processing
 - 📫 How to reach me: send an email to hogeweyv@gmail.com
 
 <!---
